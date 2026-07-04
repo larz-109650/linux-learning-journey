@@ -14,11 +14,17 @@ git version 2.53.0
 
 ---
 
-### Configure tools
+### Set up my identity
 
-git config --global user.name "[name]" -> set the name associated with the commits  
-git config --global usar.emal "[email]" -> set the email associated with the commits   
-
+Set username and email address:
+```bash
+git config --global user.name "[name]"
+git config --global usar.emal "[email]"
+```
+To view the configuration:
+```bash
+git config --list
+```
 ---
 
 ### Create repositories
