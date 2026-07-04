@@ -1,4 +1,16 @@
-## Commands used
+## Install Git
+
+I use Kali Linux. For install Git on Debian-based distributions:
+```bash
+apt-get install git
+```
+To check if Git was installed correctly and to see its version:
+```bash
+git --version
+```
+```output
+git version 2.53.0
+```
 
 ---
 
