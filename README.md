@@ -51,3 +51,10 @@ notes/ 	  -> Questions and ideas
 ## Project Status
 
 🚧 In development
+
+### Bibliography
+
+1. Chacon, S and Straub, B (2014). *Pro Git*
+2. Shotts, W (2009). *The linux comand line, 2nd Edition: A complete introduction*
+
+
