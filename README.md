@@ -34,11 +34,11 @@ Each topic is developed following a structured process:
 
 ## Repository structure
 
-docs/     -> Technical documentation
-labs/     -> Labs and experiments
-scripts/  -> Developed scripts
-learning/ -> Learning roadmap and tracking
-notes/ 	  -> Questions and ideas
+docs/     -> Technical documentation  
+labs/     -> Labs and experiments  
+scripts/  -> Developed scripts  
+learning/ -> Learning roadmap and tracking  
+notes/ 	  -> Questions and ideas  
 
 ## Technologies
 
