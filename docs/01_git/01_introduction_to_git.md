@@ -87,6 +87,8 @@ Example:
 ## Commands Used
 
 ```bash
+git config
+git init
 git clone
 git status
 git branch
